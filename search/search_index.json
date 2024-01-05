@@ -1,1 +1,1 @@
-{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Rajiv Kumar","text":""},{"location":"about/","title":"About","text":"<p> hello world </p>"}]}
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Rajiv Kumar","text":""},{"location":"about/","title":"About","text":"<p> hello world </p>"},{"location":"certificates/data-science/page/gacd/","title":"Getting and Cleaning Data","text":""}]}
