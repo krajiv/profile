@@ -1,0 +1,1 @@
+![GettingAndCleaningData](../cert/LeadingEffectively.png)

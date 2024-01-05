@@ -1,0 +1,1 @@
+<a href="https://www.slideshare.net/NOVL/novell-identity-manager-troubleshooting" target="_blank" rel="noopener noreferrer"><img src="../../assets/images/idm.webp"></a>

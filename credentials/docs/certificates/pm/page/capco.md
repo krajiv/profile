@@ -1,0 +1,1 @@
+![GettingAndCleaningData](../cert/CreatingAProductCentricOrganization.png)

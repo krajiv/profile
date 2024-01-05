@@ -1,0 +1,1 @@
+<a href="https://www.linkedin.com/pulse/decentralized-identity-management-rajiv-kumar/?trackingId=CxBE9v1fQdyVGJwlllAmEA%3D%3D" target="_blank" rel="noopener noreferrer"><img src="../../assets/images/dim.png"></a>

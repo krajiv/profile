@@ -1,0 +1,1 @@
+<a href="https://www.slideshare.net/RajivKumar6/permission-collection-and-reconciliation-service" target="_blank" rel="noopener noreferrer"><img src="../../assets/images/pcrs.webp"></a>

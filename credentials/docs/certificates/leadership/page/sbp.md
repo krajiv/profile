@@ -1,0 +1,1 @@
+![GettingAndCleaningData](../cert/SolvingBusinessProblems.png)
