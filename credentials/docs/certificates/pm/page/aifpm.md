@@ -1,0 +1,1 @@
+![GettingAndCleaningData](../cert/AIForProductManagement.png)

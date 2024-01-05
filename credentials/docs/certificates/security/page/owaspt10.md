@@ -1,0 +1,1 @@
+![GettingAndCleaningData](../cert/OWASP_Top10.png)
