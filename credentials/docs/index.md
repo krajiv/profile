@@ -1,7 +1,7 @@
 # Rajiv Kumar 
 
 #### Connect on Social media
-<a href="https://www.linkedin.com/in/raajivkumar/"><img align="left" src="assets/images/linkedin.png" alt="Rajiv Kumar | LinkedIn" width="21px"/></a> <a href="https://twitter.com/raajivkumar"><img align="left" src="assets/images/twitter.png" alt="Rajiv Kumar | X" width="18px"/></a><br/>
+<a href="https://www.linkedin.com/in/raajivkumar/" target="_blank" rel="noopener noreferrer"><img align="left" src="assets/images/linkedin.png" alt="Rajiv Kumar | LinkedIn" width="21px"/></a> <a href="https://twitter.com/raajivkumar" target="_blank" rel="noopener noreferrer"><img align="left" src="assets/images/twitter.png" alt="Rajiv Kumar | X" width="18px"/></a><br/>
 
 #### Interested in
 Product, Strategy, Cybersecurity (Identity and Access governance)
