@@ -1,6 +1,6 @@
 # Profile
 
-This statis site is built using ```mkdocs```.
+This static site is built using ```mkdocs```.
 
 ## Development IDE
 
