@@ -1,0 +1,1 @@
+![GettingAndCleaningData](../cert/OIDC_OAUTH.png)
